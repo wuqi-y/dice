@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdice"]=self["webpackChunkdice"]||[]).push([[443],{9879:function(e,l,u){u.r(l);var n,c,s=u(1001),t={},a=(0,s.Z)(t,n,c,!1,null,null,null);l["default"]=a.exports}}]);
+//# sourceMappingURL=about.1a120e45.js.map
